@@ -3,6 +3,11 @@ Utilizing cutting edge Artificial Intelligence to create a robust, effective and
 
 ![MainWindow](https://user-images.githubusercontent.com/72056829/178451224-d563d1e5-ddf9-4829-a3ba-30ba42315039.png)
 
+Requirements: 
+
+  - Python 64 bit Version (https://www.python.org/ftp/python/3.8.9/python-3.8.9-amd64.exe)
+  - Visual Studio Community edition 2022 & Desktop development with C++ Workload (shorturl.at/hisU8)
+
 The recent Omicron outbreak in New Zealand has brought forward an array of socio-economic complications. It has had a significant impact on our domestic economy, especially the small businesses which are suffering the most. From not being able to operate their businesses over the lockdown period. 
 
 Our most effective and efficient way of dealing with our current outbreak is to have as much of the population double vaccinated. As it has been proven to reduce the chances of getting the virus, spreading the virus, and significantly reducing the health implications of the virus.
