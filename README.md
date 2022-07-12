@@ -8,6 +8,8 @@ Utilizing cutting edge Artificial Intelligence to create a robust, effective and
     - Python 64 bit Version (https://www.python.org/ftp/python/3.8.9/python-3.8.9-amd64.exe)
     - Visual Studio Community edition 2022 & Desktop development with C++ Workload (https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
     
+    ![DesktopC++](https://user-images.githubusercontent.com/72056829/178454169-5991320e-6042-4dc7-a71d-4b3b2ded292c.png)
+    
 ## Installations: 
 
     - pip install cmake 
