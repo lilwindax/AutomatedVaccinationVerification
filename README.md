@@ -6,7 +6,7 @@ Utilizing cutting edge Artificial Intelligence to create a robust, effective and
 Requirements: 
 
   - Python 64 bit Version (https://www.python.org/ftp/python/3.8.9/python-3.8.9-amd64.exe)
-  - Visual Studio Community edition 2022 & Desktop development with C++ Workload (shorturl.at/hisU8)
+  - Visual Studio Community edition 2022 & Desktop development with C++ Workload (https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
 
 The recent Omicron outbreak in New Zealand has brought forward an array of socio-economic complications. It has had a significant impact on our domestic economy, especially the small businesses which are suffering the most. From not being able to operate their businesses over the lockdown period. 
 
