@@ -1,4 +1,4 @@
-# Automated Vaccination Verification
+# A.I._Enabled_Vaccination_Verification
 Utilizing cutting edge Artificial Intelligence to create a robust, effective and automated vaccination verification process
 
 
