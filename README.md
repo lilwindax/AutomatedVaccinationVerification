@@ -7,6 +7,18 @@ Utilizing cutting edge Artificial Intelligence to create a robust, effective and
 
     - Python 64 bit Version (https://www.python.org/ftp/python/3.8.9/python-3.8.9-amd64.exe)
     - Visual Studio Community edition 2022 & Desktop development with C++ Workload (https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
+    
+## Installations: 
+
+    - pip install cmake 
+    - pip install dlib
+    - pip install face-recognition 
+    - pip install opencv-python-headless
+    - pip install opencv-contrib-python
+    - pip install opencv-python 
+    - pip install easyocr 
+    - pip install matplotlib
+    - pip install messagebox
 
 The recent Omicron outbreak in New Zealand has brought forward an array of socio-economic complications. It has had a significant impact on our domestic economy, especially the small businesses which are suffering the most. From not being able to operate their businesses over the lockdown period. 
 
