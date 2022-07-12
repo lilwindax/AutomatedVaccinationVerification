@@ -19,6 +19,10 @@ Utilizing cutting edge Artificial Intelligence to create a robust, effective and
     - pip install easyocr 
     - pip install matplotlib
     - pip install messagebox
+    
+ ## Running System:
+ 
+    - Execute program by running main.py
 
 The recent Omicron outbreak in New Zealand has brought forward an array of socio-economic complications. It has had a significant impact on our domestic economy, especially the small businesses which are suffering the most. From not being able to operate their businesses over the lockdown period. 
 
