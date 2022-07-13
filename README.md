@@ -1,4 +1,4 @@
-# A.I._Enabled_Vaccination_Verification
+# A.I._Enabled_Vaccination_Verification 
 Utilizing cutting edge Artificial Intelligence to create a robust, effective and automated vaccination verification process
 
 ![MainWindow](https://user-images.githubusercontent.com/72056829/178451224-d563d1e5-ddf9-4829-a3ba-30ba42315039.png)
