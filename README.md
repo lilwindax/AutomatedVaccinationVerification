@@ -2,7 +2,7 @@
 Utilizing cutting edge Artificial Intelligence to create a robust, effective and automated vaccination verification process
 
 ![MainWindow](https://user-images.githubusercontent.com/72056829/178451224-d563d1e5-ddf9-4829-a3ba-30ba42315039.png)
-
+ 
 ## Requirements:  
 
     - Python 64 bit Version (https://www.python.org/ftp/python/3.8.9/python-3.8.9-amd64.exe)
