@@ -1,0 +1,9 @@
+cmake 
+dlib
+face-recognition 
+opencv-python-headless
+opencv-contrib-python
+opencv-python 
+easyocr 
+matplotlib
+messagebox
